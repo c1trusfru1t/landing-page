@@ -85,7 +85,7 @@ button
     justify-content: center;
     align-items: center;
     margin: 30px;
-    border-radius: 10%;
+    border-radius: 5px;
 }
 
 .info {
